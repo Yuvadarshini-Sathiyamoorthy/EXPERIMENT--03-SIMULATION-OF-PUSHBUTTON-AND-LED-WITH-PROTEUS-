@@ -71,11 +71,11 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-```
+~~~
 Name: Yuvadarshini S
 Register Number: 212221230126
-```
-```
+~~~
+~~~
 #include "main.h"
 #include "stdbool.h"
 void push_button();
@@ -178,7 +178,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
-```
+~~~
 
 ## Output screen shots of proteus  :
 ## LED OFF:
